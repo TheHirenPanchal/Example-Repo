@@ -25,3 +25,4 @@ clone = copying files from github to local
 
 >> git checkout (hashcode) = undo the last update.
 
+>> git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n' = to check all the changes made and committed till date
