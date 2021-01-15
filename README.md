@@ -15,7 +15,13 @@ clone = copying files from github to local
 
 >> git add README.md(file name) = to stage = to get ready to add to github
 
->> git commit -m "Initial commit" = to send it to github, in string we can use "Second commit" and goes on...
+>> git commit -m "Initial commit" = to send it to github, in string we can use "Second commit", "Third Commit" and goes on...
 
 >> git push origin master = to push to github(to actually add to github)
+
+>> fork = copy repo to your account
+
+>> git checkout (file name) = undo the change in file
+
+>> git checkout (hashcode) = undo the last update.
 
